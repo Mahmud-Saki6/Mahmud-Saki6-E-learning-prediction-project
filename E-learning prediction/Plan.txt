@@ -1,0 +1,13 @@
+Establish goals 
+
+Explore the dataset and find issues about the dataset
+
+Issues to fix
+
+Enter to the ML phase and make some prediction 
+
+Select the best model
+
+Deploy the model and understand how the model makes prediction
+
+
